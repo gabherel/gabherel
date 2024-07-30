@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: **gabriel.snts.macedo@gmail.com**
 
-- ⚡ Main language:  `Javascript`
+- ⚡ Main language:  `Python`
   
 - 👨🏻‍💻 Systems development technician
 
