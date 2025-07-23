@@ -1,6 +1,6 @@
 <h3 align="center">A passionate cybersecurity student from Brasil</h3>
 
-- 🌱 I’m currently learning **CTF, Cibersecuty, C#**
+- 🌱 I’m currently learning **CTF, Cybersecurity, C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
