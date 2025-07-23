@@ -4,6 +4,10 @@
 
 ###
 
+<h1 align="center">hey there 👋</h1>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-dos-santos-macedo-7168b4178/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -15,16 +19,6 @@
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabherel.gabherel&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -52,17 +46,10 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gabherel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabherel/gabherel/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabherel/gabherel/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabherel/gabherel/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
