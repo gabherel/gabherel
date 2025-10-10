@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Gabriel S Macedo from Brazil<br><br>- 📚 I'm currently learning cybersecurity, pentesting, C#<br>- ⚡ In my free time I play CTFs</p>
+<p align="left">I'm Gabriel S Macedo from Brazil<br><br>- 📚 I'm currently learning cybersecurity, pentesting, .py<br>- ⚡ In my free time I play CTFs</p>
 
 ###
 
